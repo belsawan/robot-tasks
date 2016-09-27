@@ -18,3 +18,4 @@ def task_8_6():
 
 if __name__ == '__main__':
     run_tasks()
+z
